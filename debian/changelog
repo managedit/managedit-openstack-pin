@@ -1,3 +1,9 @@
+managedit-openstack-pin (1.0ubuntu1) oneiric; urgency=low
+
+  * Fixed debian/control section for PPA
+
+ -- Kiall Mac Innes <kiall@managedit.ie>  Fri, 21 Oct 2011 17:50:10 +0100
+
 managedit-openstack-pin (1.0) oneiric; urgency=low
 
   * Initial Release.

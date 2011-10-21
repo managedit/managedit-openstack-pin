@@ -1,5 +1,5 @@
 Source: managedit-openstack-pin
-Section: unknown
+Section: admin
 Priority: extra
 Maintainer: Kiall Mac Innes <kiall@managedit.ie>
 Build-Depends: debhelper (>= 8.0.0)
