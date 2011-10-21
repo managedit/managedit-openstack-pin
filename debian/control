@@ -1,0 +1,11 @@
+Source: managedit-openstack-pin
+Section: unknown
+Priority: extra
+Maintainer: Kiall Mac Innes <kiall@managedit.ie>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.2
+
+Package: managedit-openstack-pin
+Architecture: all
+Depends: ${misc:Depends}
+Description: Pin's the Managed I.T. OpenStack PPA at highest priority
